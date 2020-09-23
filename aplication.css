@@ -1,0 +1,17 @@
+.link {
+    color: grey;
+    margin-left: 8px;
+}
+.link-2 {
+    color: rgb(36, 35, 35);
+    margin-left: 8px;
+}
+.s-right {
+    float: right;
+    margin-right: 8px;
+}
+.footNote{
+    position: absolute; 
+    bottom: 0%;
+    width: 100%; 
+}
